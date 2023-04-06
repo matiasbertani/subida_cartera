@@ -200,3 +200,6 @@ env/
 venv/
 .env/
 .venv/
+*cr.csv
+Subida\ Osiris/*
+.DS_Store
